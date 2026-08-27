@@ -73,6 +73,12 @@ It's about having the **discipline to learn**, the **responsibility to use what 
   <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
 </div>
 
+**Version Control**
+<div>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</div>
+
 ## `// currently`
 
 ```text
