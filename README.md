@@ -12,7 +12,7 @@
 
 ---
 
-## `// identity`
+`// identity`
 
 ```python
 class Developer:
@@ -40,7 +40,7 @@ It's about having the **discipline to learn**, the **responsibility to use what 
 
 ---
 
-## `// stack`
+`// stack`
 
 **Frontend**
 
@@ -79,7 +79,9 @@ It's about having the **discipline to learn**, the **responsibility to use what 
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </div>
 
-## `// currently`
+---
+
+`// currently`
 
 ```text
 [████████████████████░░] 90%
@@ -94,7 +96,7 @@ debugging       █████████████████░░░
 
 ---
 
-## `// philosophy`
+`// philosophy`
 
 ```text
 discipline  →  learning  →  practice  →  mastery
